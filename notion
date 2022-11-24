@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>notion_mp4</title>
+
+
+<style>
+.mytitle {
+width: 100%;
+height: 250px;
+}
+</style>
+</head>
+
+<body>
+<div class="mytitle">
+    <iframe src="https://player.vimeo.com/video/774524545?autoplay=1&loop=1" width="100%" height="670" frameborder="0" allow="autoplay"></iframe>
+</div> 
+</body>
+</html>
